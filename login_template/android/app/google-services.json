@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876471836285",
+    "firebase_url": "https://tapp-2be7f.firebaseio.com",
+    "project_id": "tapp-2be7f",
+    "storage_bucket": "tapp-2be7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876471836285:android:55d04e7daeef34be985b14",
+        "android_client_info": {
+          "package_name": "com.natsuki.login_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876471836285-cokdv20jaalooe3lb7ot2fmgl5m0qo52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA62YMo51oWV_DStS5llLXxmyfBqX_440"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876471836285-cokdv20jaalooe3lb7ot2fmgl5m0qo52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
